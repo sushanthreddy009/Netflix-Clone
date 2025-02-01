@@ -25,8 +25,12 @@ yarn dev
 🛠 Built With
 
 Next.js - The web framework used
+
 TypeScript - Programming language
+
 Bootstrap - Web framework
+
 MaterialUI - Web framework
+
 Yarn - Dependency Manager
 
