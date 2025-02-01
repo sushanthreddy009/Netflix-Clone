@@ -22,7 +22,7 @@ yarn install
 
 yarn dev
 
-🛠 Built With
+### 🛠 Built With
 
 Next.js - The web framework used
 
